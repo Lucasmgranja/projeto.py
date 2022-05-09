@@ -177,4 +177,4 @@ while True:
       pygame.display.update()
   tela.blit(texto_formatado, (20,40))
 
-  pygame.display.u
+  pygame.display.update()
